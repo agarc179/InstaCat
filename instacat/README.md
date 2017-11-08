@@ -1,6 +1,6 @@
-# instacat
+# cropchat
 
-> Project a cat picture application
+> A cat pictures messaging application
 
 ## Build Setup
 
